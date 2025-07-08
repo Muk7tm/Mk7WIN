@@ -53,8 +53,8 @@ Built-in AI chatbot that helps you:
 
 ## 📥 Installation
 
-1. [Download the latest version](https://your-download-link.com)
-2. Run `Mk7WIN_Setup.exe`
+1. [Download the latest version](https://github.com/Muk7tm/Mk7WIN/releases)
+2. Run `Mk7WIN.Setup.1.2.0.exe`
 3. Launch and enjoy your enhanced PC experience!
 
 ---
@@ -82,7 +82,7 @@ See [`LICENSE`](./LICENSE) for usage terms.
 
 Need help or want to give feedback?
 
-- 📧 Email: `your@email.com`
+- 📧 Username (Discord): `@_q.f`
 - (Optional) Open an issue if you're using GitHub
 
 ---
