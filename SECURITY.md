@@ -15,7 +15,7 @@ We currently support only the **latest stable version** of Mk7WIN.
 
 If you discover a security issue in Mk7WIN, please report it privately.
 
-- **Contact**: your@email.com
+- **Contact**: @_q.f (Discord)
 - **Do not** open a public issue for sensitive vulnerabilities
 
 We will investigate and respond as soon as possible. Please include:
