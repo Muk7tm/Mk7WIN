@@ -74,7 +74,8 @@ See [`LICENSE`](./LICENSE) for usage terms.
 - Electron.js
 - Node.js
 - Windows Package Manager (winget)
-- Custom AI backend
+- Custom AI backend (Python)
+- JavaScript, Tailwind CSS (frontend)
 
 ---
 
